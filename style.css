@@ -8,7 +8,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-     background-image: url('image/bgimage.jpg');
+     background-image: url('bgimage.jpg');
      background-size: cover; /* or 'contain' based on your preference */
      background-position: center center;
      background-repeat: no-repeat;
